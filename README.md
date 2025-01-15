@@ -1,3 +1,2 @@
 # AMP_ProgrammableLogicController
-Progetto GPOI
-![Logo](Progetto/images/immagine1.png "Logo")
+![Logo](Progetto/Images/immagine1.png "Logo Del Progetto")
